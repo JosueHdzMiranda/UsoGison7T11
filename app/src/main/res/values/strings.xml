@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsoGison7T11</string>
+    <string name="txtCurp">Ingresa tu curp</string>
+    <string name="lbljson">TextView</string>
+</resources>
